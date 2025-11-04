@@ -6,7 +6,8 @@ This repository is an open-source starter monorepo for the **Gweru Poly Smart Hu
 - `backend/` - Node.js + Express API (JWT auth, role-based access)
 - `frontend/` - Next.js PWA (login, dashboard, payments demo)
 - `docker-compose.yml` - Run Postgres + backend + frontend locally
-- `README.md` - This file
+- `README.md` - This file Triggering GitHub Actions deployment 🚀
+
 - `.env.example` - Environment variable examples
 - `.github/workflows/deploy.yml` - CI template for GitHub Actions (requires secrets)
 
